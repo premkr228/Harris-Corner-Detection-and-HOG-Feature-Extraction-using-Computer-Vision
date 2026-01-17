@@ -1,0 +1,2 @@
+# Harris-Corner-Detection-and-HOG-Feature-Extraction-using-Computer-Vision
+This project explores foundational computer vision: Harris Corner Detection for identifying interest points and Histogram of Oriented Gradients (HOG) for gradient-based feature extraction. These classical techniques are essential for understanding how visual features are constructed, bridging the gap to modern deep learning.
