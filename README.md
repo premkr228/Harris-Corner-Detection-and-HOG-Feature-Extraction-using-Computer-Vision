@@ -1,4 +1,4 @@
-# Harris Corner Detection and HOG Feature Extraction using Classical Computer Vision
+# Harris Corner Detection and HOG Feature Extraction using Computer Vision
 
 1. Objective of the Project
 
